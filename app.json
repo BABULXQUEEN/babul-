@@ -1,7 +1,7 @@
 {
-  "name": "˹ᴀʟᴏɴᴇ˼ [V3]",
+  "name": "SIYA MUSIC",
   "description": "A Alone Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-  "logo": "https://files.catbox.moe/n2f6fh.jpg",
+  "logo": "https://files.catbox.moe/ydqiwn.jpg",
   "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "7552579717",
+      "value": "7078080449",
       "required": true
     },
     "STRING_SESSION": {
