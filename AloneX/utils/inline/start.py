@@ -43,7 +43,7 @@ def private_panel(_):
             InlineKeyboardButton("˹ 𝐁σт 𝐈иғσ ˼", callback_data="bot_info_data"),
       #  ],
       #  [
-           # InlineKeyboardButton("𓂃❛𝚨Łꪮⲛ𝛆♡𝐒⋏ꪗ𝛅꯭‹//›🍂🌙", url=f"https://t.me/AloneXSays"),
+           # InlineKeyboardButton("𝗧𝗛𝗘 𝗨𝗡𝗢𝗙𝗙𝗖𝗜𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞 ", url=f"https://t.me/UFC_NETWORK"),
         ],
     ]
     return buttons
