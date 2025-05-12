@@ -23,11 +23,11 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-OWNER_ID = int(getenv("OWNER_ID", "7552579717"))
+OWNER_ID = int(getenv("OWNER_ID", "7078080449"))
 
-OWNER_USERNAME = getenv("OWNER_USERNAME","AloneHuVai")
+OWNER_USERNAME = getenv("OWNER_USERNAME","UFC_INNOCENT")
 
-BOT_USERNAME = getenv("BOT_USERNAME" , "AloneXMusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "SIYA_UFC_ROBOT")
 
 COMMAND_HANDLER = getenv("COMMAND_HANDLER", "! / .").split()
 
@@ -37,15 +37,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TeamAloneOp/AloneX",
+    "https://github.com/UFCMUSIC/UPDATE0",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "ALONE")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", ""
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AloneUpdates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AloneXSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/UFC_NETWORK")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/UFC_LINK_ZONE")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -88,13 +88,13 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/7o7i4j.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/ydqiwn.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/vxp6t1.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/ydqiwn.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/gkkinp.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/mvaaba.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/ydqiwn.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/ydqiwn.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/1acqoa.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/pz77qq.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/jztzqe.jpg"
