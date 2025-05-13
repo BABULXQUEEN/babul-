@@ -32,10 +32,10 @@ async def start(_, msg):
         ],
         [
           InlineKeyboardButton("𝗔𝗹𝗹 𝗥𝗘𝗣𝗢", url="https://t.me/UFC_NETWORK"),
-          InlineKeyboardButton("𝗥𝗘𝗣𝗢", url="https://t.me/UFC_LINK_ZONE"),
+          InlineKeyboardButton("𝗥𝗘𝗣𝗢", url=f"https://t.me/UFC_LINK_ZONE"),
           ],
                [
-                InlineKeyboardButton("\x41\x4C\x4F\x4E\x45\x20\x4E\x45\x54\x57\x4F\x52\x4B", url=f"\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x2E\x6D\x65\x2F\x41\x6C\x6F\x6E\x65\x55\x70\x64\x61\x74\x65\x73"),
+                InlineKeyboardButton("𝗧𝗛𝗘 𝗨𝗡𝗢𝗙𝗙𝗖𝗜𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞 ꪜ", url=f"https://t.me/UFC_NETWORK"),
 ],
 [
 InlineKeyboardButton("\x4F\x46\x46\x49\x43\x49\x41\x4C\x20\x42\x4F\x54", url=f"\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x2E\x6D\x65\x2F\x41\x6C\x6F\x6E\x65\x58\x4D\x75\x73\x69\x63\x42\x6F\x74"),
