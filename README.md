@@ -23,7 +23,7 @@
   <img src="https://files.catbox.moe/ydqiwn.jpg">
 </p>
 
-**𝘿𝙀𝙈𝙊 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ 𝐒ɪʏʌ 𝐌ᴜꜱɪᴄ ˼ [ɴᴏ ᴀᴅs] 🥀­­­­­­­­­­­­­  ](https://t.me/SIYA_UFC_ROBOT)**
+**𝘿𝙀𝙈𝙊 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ 𝐒ɪʏʌ 𝐌ᴜꜱɪᴄ ˼🥀­­­­­­­­­­­­­  ](https://t.me/SIYA_UFC_ROBOT)**
 
 
 
@@ -36,7 +36,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/UFCMUSIC/UPDATE0)
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/Silenthrax/SIYA)
 
 <h2 align="center">
 
