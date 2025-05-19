@@ -14,11 +14,11 @@
 
 
 <h2 align="center">
-    𖢵 ˹ 𝐒ɪʏʌ 𝐌ᴜꜱɪᴄ ˼ 𖢵
+    𖢵 ˹𝐒ɪʏʌ 𝐌ᴜꜱɪᴄ ˼ 𖢵
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+⎯꯭᪵💗𝄄꯭꯭𝄄𓇚꯭𝐃๏𐍂ʌ𝛜м๏𝛈𓇚꯭𝄄꯭꯭𝄄💗.᪵᪳❰꯭᪳𓆪͓⃯+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+⎯𝐒ɪʟᴇɴᴛʜʀᴀx+🎭">
 <p align="center">
   <img src="https://files.catbox.moe/ydqiwn.jpg">
 </p>
@@ -41,7 +41,7 @@
 <h2 align="center">
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
-[![ALONE](https://te.legra.ph/file/fa42213a5129d4a26dd3d.jpg)](https://t.me/AloneHuVai)
+[![ALONE](https://files.catbox.moe/8f3oe7.jpg)](https://t.me/SILENTHRAX)
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -68,7 +68,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TeamAloneOp/AloneX && cd AloneX
+   git clone https://github.com/Silenthrax/SIYA && cd SIYA
    ```
 6. **Install Requirements**
    ```bash
@@ -95,10 +95,10 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AloneXSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/BESTIE_UNITE_CLUB"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AloneUpdates"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href=""><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
