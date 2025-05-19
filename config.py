@@ -37,15 +37,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/UFCMUSIC/UPDATE0",
+    "https://github.com/Silenthrax/SIYA",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "ALONE")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", ""
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/UFC_NETWORK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/UFC_LINK_ZONE")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Silenthrex")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BESTIE_UNITE_CLUB")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
