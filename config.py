@@ -23,11 +23,11 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-OWNER_ID = int(getenv("OWNER_ID", "7978151350"))
+OWNER_ID = int(getenv("OWNER_ID", "7394980102"))
 
-OWNER_USERNAME = getenv("OWNER_USERNAME","SILENTHREX")
+OWNER_USERNAME = getenv("OWNER_USERNAME","mr_babul0")
 
-BOT_USERNAME = getenv("BOT_USERNAME" , "SIYA_UFC_ROBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "OPXMUSICXBOT")
 
 COMMAND_HANDLER = getenv("COMMAND_HANDLER", "! / .").split()
 
@@ -37,15 +37,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Silenthrax/SIYA",
+    "https://github.com/BABULXQUEEN/babul-",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "ALONE")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", ""
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Silenthrex")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BESTIE_UNITE_CLUB")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mrbabul0")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+buVXCEkFdfBlYTk9")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -88,21 +88,21 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/ydqiwn.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/d5v3wx.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/ydqiwn.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/d5v3wx.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/ydqiwn.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/ydqiwn.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/1acqoa.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/pz77qq.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/jztzqe.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/zug4cs.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/mlgn8r.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/5r11ud.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/j1dhya.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/rsrgn2.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/d5v3wx.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/d5v3wx.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/d5v3wx.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/d5v3wx.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/d5v3wx.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/d5v3wx.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/d5v3wx.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/d5v3wx.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/d5v3wx.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/d5v3wx.jpg"
 
 
 def time_to_seconds(time):
