@@ -1,5 +1,5 @@
 ━━━━━━━━━━━━━━━━
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+### 🌷 BABUL X MUSIC 🌷
 
 <!--
 **TeamAloneOp/AloneX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,16 @@
 
 
 <h2 align="center">
-    𖢵 ˹𝐒ɪʏʌ 𝐌ᴜꜱɪᴄ ˼ 𖢵
+    𖢵 ˹ʙᴀʙᴜʟ 𝐌ᴜꜱɪᴄ ˼ 𖢵
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+⎯𝐒ɪʟᴇɴᴛʜʀᴀx+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+ ʙᴀʙᴜʟ+🎭">
 <p align="center">
   <img src="https://files.catbox.moe/ydqiwn.jpg">
 </p>
 
-**𝘿𝙀𝙈𝙊 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ 𝐒ɪʏʌ 𝐌ᴜꜱɪᴄ ˼🥀­­­­­­­­­­­­­  ](https://t.me/SIYA_UFC_ROBOT)**
+**𝘿𝙀𝙈𝙊 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ ʙᴀʙᴜʟ 𝐌ᴜꜱɪᴄ ˼🥀­­­­­­­­­­­­­  ](https://github.com/BABULXQUEEN/babul-)**
 
 
 
