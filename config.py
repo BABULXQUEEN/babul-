@@ -23,11 +23,11 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-OWNER_ID = int(getenv("OWNER_ID", "7394980102"))
+OWNER_ID = int(getenv("OWNER_ID", "7934351518"))
 
 OWNER_USERNAME = getenv("OWNER_USERNAME","mr_babul0")
 
-BOT_USERNAME = getenv("BOT_USERNAME" , "OPXMUSICXBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "MAHI_X_MUSIC_ROBOT")
 
 COMMAND_HANDLER = getenv("COMMAND_HANDLER", "! / .").split()
 
